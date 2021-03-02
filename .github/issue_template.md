@@ -10,4 +10,4 @@ Add here all the descripstions that you think it will be useful and valuable to 
 
 ## Screenshots
 
-Add screenshots if needes, otherwise delete this section
+Add screenshots if needes, otherwise delete this section.
